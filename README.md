@@ -3,7 +3,6 @@
 <h3 align="center"> 🏆 Github Stats </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mulbom&show_icons=true&theme=default&count_private=true" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulbom&theme=transparent&count_private=true" width="45%"> 
 </p>
 
